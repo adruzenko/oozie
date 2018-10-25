@@ -1,6 +1,7 @@
 -- Oozie 5.2.0 release (trunk - unreleased)
 
 OOZIE-3380 TestCoordMaterializeTransitionXCommand failure after DST change date (asalamon74 via kmarton)
+OOZIE-3371 TestSubWorkflowActionExecutor#testSubWorkflowRerun() is flaky (andras.piros)
 
 -- Oozie 5.1.0 release
 
